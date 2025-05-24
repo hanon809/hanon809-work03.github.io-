@@ -317,14 +317,6 @@ iframe {
     font-size: 17px;
 }
 
-.footer-display {
-    display: flex;
-    justify-content: space-between;
-    width: 600px;
-    margin: 0 auto;
-    padding-top: 50px;
-}
-
 .fotter-navi a {
     color: #4A3328;
 }
@@ -332,6 +324,7 @@ iframe {
 .footer-logo {
     display: flex;
     justify-content: center;
+    padding: 50px 0 0 0;
 }
 
 .small-text {
